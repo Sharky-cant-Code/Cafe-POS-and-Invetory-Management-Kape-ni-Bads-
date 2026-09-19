@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+cafe_pos.db
+receipts/*.txt
